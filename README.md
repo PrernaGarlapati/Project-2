@@ -1,2 +1,1 @@
-# Project-2
-Rock Paper Scissors
+This interactive Rock Paper Scissors game is a complete frontend implementation built with HTML, CSS, and  JavaScript. Players can compete against the computer by clicking visual buttons for rock, paper, or scissors. The game features real-time score tracking, dynamic result announcements, and colorful visual feedback with glowing borders that indicate wins, losses , or draws.
